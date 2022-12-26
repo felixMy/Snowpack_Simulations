@@ -1,0 +1,29 @@
+SMET 1.1 ASCII
+[HEADER]
+station_id       = Z934
+station_name     = Wendelstein:StudyPlot_MST
+latitude         = 47.703601
+longitude        = 12.024408
+altitude         = 1580.0
+nodata           = -999
+tz               = 1
+slope_angle      = 0
+slope_azi        = 0
+ProfileDate      = 2022-12-25T16:00:00.590
+HS_Last          = 0.068101
+nSoilLayerData   = 0
+nSnowLayerData   = 4
+SoilAlbedo       = 0.09
+BareSoil_z0      = 0.200
+CanopyHeight     = 0.00
+CanopyLeafAreaIndex = 0.000000
+CanopyDirectThroughfall = 1.00
+WindScalingFactor = 1.00
+ErosionLevel     = 3
+TimeCountDeltaHS = 0.000000
+fields           = timestamp Layer_Thick  T  Vol_Frac_I  Vol_Frac_W  Vol_Frac_V  Vol_Frac_S Rho_S Conduc_S HeatCapac_S  rg  rb  dd  sp  mk mass_hoar ne CDot metamo
+[DATA]
+2022-11-18T13:00:00     0.015800   273.150000     0.434783     0.039251     0.525966     0.000000       0.0     0.000          0.0    0.462846   0.226201   0.000000   1.000000     12      0.000000    1     -774.029998        0.000000
+2022-11-18T16:30:00     0.015432   273.150000     0.435401     0.039262     0.525338     0.000000       0.0     0.000          0.0    0.466693   0.226662   0.000000   1.000000     12      0.000000    1     -758.136021        0.000000
+2022-11-18T21:15:00     0.026444   273.150000     0.389411     0.041238     0.569351     0.000000       0.0     0.000          0.0    0.463335   0.228047   0.000000   1.000000     12      0.000000    1     -738.314703        0.000000
+2022-11-18T22:30:00     0.010425   273.150000     0.312132     0.048641     0.639227     0.000000       0.0     0.000          0.0    0.519472   0.280123   0.000000   1.000000     11      0.000000    1     -719.609646        0.000000

@@ -1,0 +1,27 @@
+SMET 1.1 ASCII
+[HEADER]
+station_id       = SPIT1
+station_name     = Spitzingsee
+latitude         = 47.662900
+longitude        = 11.891900
+altitude         = 1100.0
+nodata           = -999
+tz               = 1
+slope_angle      = 0
+slope_azi        = 0
+ProfileDate      = 2022-12-23T15:00:00
+HS_Last          = 0.027644
+nSoilLayerData   = 0
+nSnowLayerData   = 2
+SoilAlbedo       = 0.09
+BareSoil_z0      = 0.200
+CanopyHeight     = 0.00
+CanopyLeafAreaIndex = 0.000000
+CanopyDirectThroughfall = 1.00
+WindScalingFactor = 1.00
+ErosionLevel     = 1
+TimeCountDeltaHS = 0.000000
+fields           = timestamp Layer_Thick  T  Vol_Frac_I  Vol_Frac_W  Vol_Frac_V  Vol_Frac_S Rho_S Conduc_S HeatCapac_S  rg  rb  dd  sp  mk mass_hoar ne CDot metamo
+[DATA]
+2022-11-21T09:00:00     0.012855   273.150000     0.414478     0.040026     0.545496     0.000000       0.0     0.000          0.0    0.618122   0.365578   0.000000   1.000000     22      0.000000    1     -248.567550        0.000000
+2022-11-21T09:00:00     0.014789   273.150000     0.230405     0.061514     0.708081     0.000000       0.0     0.000          0.0    0.605954   0.330387   0.000000   1.000000     22      0.000000    1     -248.726787        0.000000

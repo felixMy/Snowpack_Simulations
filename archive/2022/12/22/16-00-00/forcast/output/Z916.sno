@@ -1,0 +1,28 @@
+SMET 1.1 ASCII
+[HEADER]
+station_id       = Z916
+station_name     = Pürschling:StudyPlot_MST
+latitude         = 47.595601
+longitude        = 10.994218
+altitude         = 1370.0
+nodata           = -999
+tz               = 1
+slope_angle      = 0
+slope_azi        = 0
+ProfileDate      = 2022-12-23T16:00:00.610
+HS_Last          = 0.040179
+nSoilLayerData   = 0
+nSnowLayerData   = 3
+SoilAlbedo       = 0.09
+BareSoil_z0      = 0.200
+CanopyHeight     = 0.00
+CanopyLeafAreaIndex = 0.000000
+CanopyDirectThroughfall = 1.00
+WindScalingFactor = 1.00
+ErosionLevel     = 2
+TimeCountDeltaHS = 0.000000
+fields           = timestamp Layer_Thick  T  Vol_Frac_I  Vol_Frac_W  Vol_Frac_V  Vol_Frac_S Rho_S Conduc_S HeatCapac_S  rg  rb  dd  sp  mk mass_hoar ne CDot metamo
+[DATA]
+2022-11-18T18:30:00     0.007669   273.150000     0.325036     0.047100     0.627864     0.000000       0.0     0.000          0.0    0.644910   0.295614   0.000000   1.000000     12      0.000000    1     -312.255282        0.000000
+2022-11-18T19:15:00     0.008259   273.150000     0.311439     0.048547     0.640014     0.000000       0.0     0.000          0.0    0.738476   0.369073   0.000000   1.000000     11      0.000000    1     -305.853433        0.000000
+2022-11-22T05:45:00     0.024252   273.150000     0.342376     0.045489     0.612135     0.000000       0.0     0.000          0.0    0.595197   0.278345   0.000000   1.000000     12      0.000000    1     -290.614131        0.000000
